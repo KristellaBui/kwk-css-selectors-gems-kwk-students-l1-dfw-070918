@@ -1,5 +1,5 @@
 html {
-  background: url(../images/beach.jpg) no-repeat top center;
+  background: url(https://github.com/learn-co-students/kwk-css-selectors-gems-kwk-students-l1-dfw-070918/blob/master/images/beach.jpg?raw=trueg) no-repeat top center;
 }
 
 img {
@@ -23,14 +23,14 @@ img {
 
 #wheelbarrow { 
   position: relative;
-  background: url(../images/treasure-chest-background.png) no-repeat;
+  background: url(https://github.com/learn-co-students/kwk-css-selectors-gems-kwk-students-l1-dfw-070918/blob/master/images/treasure-chest-background.png?raw=true) no-repeat;
   z-index: 0;
   top: 150px;
 }
 #wheelbarrow-foreground {
   pointer-events: none;
   position: absolute;
-  background: url(../images/treasure-chest-foreground.png) no-repeat;
+  background: url(https://github.com/learn-co-students/kwk-css-selectors-gems-kwk-students-l1-dfw-070918/blob/master/images/treasure-chest-foreground.png?raw=true) no-repeat;
   z-index: 10;
   top: 150px;
 }
